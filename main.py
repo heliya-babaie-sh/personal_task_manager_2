@@ -22,7 +22,12 @@ if admin_mode.lower() == "yes":
 tasks = []
 count = int(input("how many task do you want to add?: "))
 for i in range(count):
-    task = input("enter a task: ")
+    task_name = input("enter a task: ")
+    priority = input("enter priority(low/medium/high)").lower()
+    task = {
+        "name" : task_name,
+        "priority": priority
+    }
     tasks.append(task)
 
 show_tasks(tasks)
