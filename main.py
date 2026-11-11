@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 name = input("please enter your name : ")
-print("welcome ", name)
+print("welcome back ", name)
 
 admin_mode = input("do you want to open admin mode? yes/no: ")
 
