@@ -39,7 +39,7 @@ personal_task_manager_ostad/
 ## Installation
 install the required packages:
 ```bash
-python -m pip install -r requirments.txt
+python -m pip install -r requirements.txt
 ```
 ## Environment Setup
 create a `.env` file in the project folde
