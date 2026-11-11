@@ -1,7 +1,7 @@
 # Personal Task Mananger 
 ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
 
-A simple  task manager built with Python
+A simple  task manager built with Python for learning git and github
 
 ## Features
 - Add multiple tasks 
