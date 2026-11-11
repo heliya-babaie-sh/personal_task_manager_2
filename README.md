@@ -1,7 +1,7 @@
 # Personal Task Mananger 
 ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
 
-A simple  task manager built with Python for learning git and github
+A simple  task manager built with Python for learning git & github
 
 ## Features
 - Add multiple tasks 
@@ -39,7 +39,7 @@ personal_task_manager_ostad/
 ## Installation
 install the required packages:
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirments.txt
 ```
 ## Environment Setup
 create a `.env` file in the project folde
